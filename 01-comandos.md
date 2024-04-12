@@ -38,9 +38,17 @@ $ php artisan make:controller NameController
 $ php artisan make:controller NameController --resource
 ```
 
+## MIDDLEWARE
+
+```
+$ php artisan make:middleware NameMiddleware
+```
+
 ## Database
 
 ### Migrate
 ```
 $ php artisan migrate 
 ```
+
+
