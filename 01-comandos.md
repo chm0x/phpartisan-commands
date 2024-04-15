@@ -10,6 +10,7 @@ $ composer create-project laravel/laravel project-name --prefer-dist
 # Create a project with a specific version of laravel
 $ composer create-project laravel/laravel project-name "10.0.*"
 $ composer create-project laravel/laravel project-name "5.*"
+$ composer create-project laravel/laravel project-name "5.6.*"
 ```
 
 
