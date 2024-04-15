@@ -1,5 +1,20 @@
 # Comandos para Laravel
 
+## Create project
+```
+$ composer create-project laravel/laravel project-name
+
+# With prefer-dist
+$ composer create-project laravel/laravel project-name --prefer-dist
+
+# Create a project with a specific version of laravel
+$ composer create-project laravel/laravel project-name "10.0.*"
+$ composer create-project laravel/laravel project-name "5.*"
+```
+
+
+
+
 ## Basics
 
 Help command
